@@ -1,6 +1,6 @@
 # Locker Management System
 
-Locker Management System adalah program untuk manajemen loker berbasic command line
+Locker Management System adalah program untuk manajemen loker berbasis command line
 
 ## Instalasi
 install python 3.8.0
@@ -27,7 +27,7 @@ python -m unittest test.py -v
 ```bash
 coverage run test.py
 coverage report
-coverage html #generate menjadi file html
+coverage html 
 ```
 
 ## Menjalankan Locker Management System
