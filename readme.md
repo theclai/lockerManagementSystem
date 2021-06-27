@@ -3,8 +3,8 @@
 Locker Management System adalah program untuk manajemen loker berbasis command line
 
 ## Instalasi
-install python 3.8.0
-Buat python environment baru dan load env
+install python 3.8.0 \
+buat python environment baru dan load env
 
 ```bash
 python3 -m venv <nama_environment>
